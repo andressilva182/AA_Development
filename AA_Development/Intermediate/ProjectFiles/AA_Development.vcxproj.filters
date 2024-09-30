@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AA_Development.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AA_Development.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AA_DevelopmentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AA_Development">
+      <UniqueIdentifier>{07F24BB2-8599-3909-B174-5EF0A374554C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AA_Development\AA_Development.Build.cs">
+      <Filter>Source\AA_Development</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AA_Development\AA_Development.cpp">
+      <Filter>Source\AA_Development</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AA_Development\AA_Development.h">
+      <Filter>Source\AA_Development</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AA_Development\AA_DevelopmentCharacter.cpp">
+      <Filter>Source\AA_Development</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AA_Development\AA_DevelopmentCharacter.h">
+      <Filter>Source\AA_Development</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AA_Development\AA_DevelopmentGameMode.cpp">
+      <Filter>Source\AA_Development</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AA_Development\AA_DevelopmentGameMode.h">
+      <Filter>Source\AA_Development</Filter>
+    </ClInclude>
+    <Filter Include="Source\AA_Development\TP_ThirdPerson">
+      <UniqueIdentifier>{3C50FDA9-E73F-3FF8-8DEC-4FD4349B0EFA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\AA_Development\TP_ThirdPerson\TP_ThirdPerson.h">
+      <Filter>Source\AA_Development\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AA_Development\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+      <Filter>Source\AA_Development\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AA_Development\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+      <Filter>Source\AA_Development\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AA_Development\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+      <Filter>Source\AA_Development\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AA_Development\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+      <Filter>Source\AA_Development\TP_ThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

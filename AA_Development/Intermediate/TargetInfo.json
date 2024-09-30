@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AA_Development",
+			"Path": "..\\Source\\AA_Development.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AA_DevelopmentEditor",
+			"Path": "..\\Source\\AA_DevelopmentEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

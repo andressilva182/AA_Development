@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\andres pc\\documents\\unreal projects\\aa_development\\source\\aa_development\\aa_development.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\andres pc\\documents\\unreal projects\\aa_development\\intermediate\\build\\win64\\x64\\aa_developmenteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\andres pc\\documents\\unreal projects\\aa_development\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aa_development\\definitions.aa_development.h",
+            "c:\\users\\andres pc\\documents\\unreal projects\\aa_development\\source\\aa_development\\aa_development.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
