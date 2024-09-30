@@ -1528,3 +1528,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.30-21.18.28:707][ 31]MapCheck: Warning: M_MS_Default_Material Material /Game/Megascans/3D_Assets/Cactus_udugdfvfa/MI_Cactus_udugdfvfa_1K.MI_Cactus_udugdfvfa_1K was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
 [2024.09.30-21.18.30:540][171]LogSlate: Window 'Message Log' being destroyed
 [2024.09.30-21.18.30:545][171]LogSlate: Window 'Message Log' being destroyed
+[2024.09.30-21.21.46:032][959]LogDerivedDataCache: C:/Users/Andres PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:41.341 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 53756 files in 52173 folders with total size 11871 MiB.
+[2024.09.30-21.22.36:907][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.30-21.22.38:745][ 28]LogSlate: Window 'Delete Assets' being destroyed
+[2024.09.30-21.22.38:751][ 28]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+	Asset Type: TextureCube
+[2024.09.30-21.22.38:900][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.09.30-21.22.38:905][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.09.30-21.22.38:910][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.09.30-21.22.44:095][512]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.09.30-21.22.44:097][512]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.09.30-21.22.45:764][656]LogSlate: Window 'Content Browser' being destroyed
+[2024.09.30-21.22.45:769][656]LogSlate: Window 'Content Browser' being destroyed
+[2024.09.30-21.22.47:432][811]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.09.30-21.22.47:432][811]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.09.30-21.22.54:889][432]LogSlate: Window 'Content Browser 2' being destroyed
+[2024.09.30-21.22.54:897][432]LogViewport: Scene viewport resized to 996x447, mode Windowed.
